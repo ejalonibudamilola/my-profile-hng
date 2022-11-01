@@ -12,7 +12,7 @@ const Profile = () => {
                     <span className="name mt-3">Damilola Ejalonibu</span> 
                     <span id="twitter" className="idd">
                         <a target="_blank"  rel="noopener noreferrer" href="https://twitter.com/DammyLonibu"><i className="fa fa-twitter"></i></a>
-                        <span id="slack"><a target="_blank" rel="noopener noreferrer" href="https://zuritraining.slack.com"><i className="fa fa-slack"></i></a></span>
+                        <span id="slack" className="slack"><a target="_blank" rel="noopener noreferrer" href="https://zuritraining.slack.com"><i className="fa fa-slack"></i></a></span>
                     </span>                      
                     <div className=" d-flex mt-2"> 
                         <a target="_blank" rel="noopener noreferrer" href="https://training.zuri.team/" id="btn__zuri" className="btn1 btn-dark myLinks">Zuri Team</a> 
